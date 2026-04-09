@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SimpleCalculatorApp
+namespace QuizGame
 {
     internal class Calculator
     {

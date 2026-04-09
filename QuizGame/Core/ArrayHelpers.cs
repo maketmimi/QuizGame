@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace QuestionsGame
+namespace QuizGame
 {
     internal class ArrayHelpers
     {

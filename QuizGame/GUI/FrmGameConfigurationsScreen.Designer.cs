@@ -45,11 +45,10 @@
             // 
             // LbTitle
             // 
-            this.LbTitle.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.LbTitle.AutoSize = true;
             this.LbTitle.Font = new System.Drawing.Font("Comic Sans MS", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.LbTitle.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
-            this.LbTitle.Location = new System.Drawing.Point(24, 24);
+            this.LbTitle.Location = new System.Drawing.Point(30, 24);
             this.LbTitle.Margin = new System.Windows.Forms.Padding(0);
             this.LbTitle.Name = "LbTitle";
             this.LbTitle.Size = new System.Drawing.Size(355, 67);
@@ -58,12 +57,11 @@
             // 
             // TxtPlayerName
             // 
-            this.TxtPlayerName.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.TxtPlayerName.BackColor = System.Drawing.Color.White;
             this.TxtPlayerName.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.TxtPlayerName.Font = new System.Drawing.Font("Comic Sans MS", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TxtPlayerName.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(62)))));
-            this.TxtPlayerName.Location = new System.Drawing.Point(137, 130);
+            this.TxtPlayerName.Location = new System.Drawing.Point(143, 130);
             this.TxtPlayerName.Margin = new System.Windows.Forms.Padding(0);
             this.TxtPlayerName.Name = "TxtPlayerName";
             this.TxtPlayerName.Size = new System.Drawing.Size(249, 41);
@@ -71,11 +69,10 @@
             // 
             // LbPlayerName
             // 
-            this.LbPlayerName.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.LbPlayerName.AutoSize = true;
             this.LbPlayerName.Font = new System.Drawing.Font("Comic Sans MS", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.LbPlayerName.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
-            this.LbPlayerName.Location = new System.Drawing.Point(17, 128);
+            this.LbPlayerName.Location = new System.Drawing.Point(23, 128);
             this.LbPlayerName.Margin = new System.Windows.Forms.Padding(0);
             this.LbPlayerName.Name = "LbPlayerName";
             this.LbPlayerName.Size = new System.Drawing.Size(114, 38);
@@ -84,14 +81,13 @@
             // 
             // GbLevel
             // 
-            this.GbLevel.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.GbLevel.Controls.Add(this.RbHard);
             this.GbLevel.Controls.Add(this.RbEasy);
             this.GbLevel.Controls.Add(this.RbMedium);
             this.GbLevel.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.GbLevel.Font = new System.Drawing.Font("Comic Sans MS", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.GbLevel.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
-            this.GbLevel.Location = new System.Drawing.Point(93, 271);
+            this.GbLevel.Location = new System.Drawing.Point(99, 271);
             this.GbLevel.Margin = new System.Windows.Forms.Padding(0);
             this.GbLevel.Name = "GbLevel";
             this.GbLevel.Size = new System.Drawing.Size(216, 181);
@@ -169,13 +165,12 @@
             // 
             // NudTotalQuestions
             // 
-            this.NudTotalQuestions.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.NudTotalQuestions.AutoSize = true;
             this.NudTotalQuestions.BackColor = System.Drawing.Color.White;
             this.NudTotalQuestions.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.NudTotalQuestions.Font = new System.Drawing.Font("Comic Sans MS", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.NudTotalQuestions.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(62)))));
-            this.NudTotalQuestions.Location = new System.Drawing.Point(305, 200);
+            this.NudTotalQuestions.Location = new System.Drawing.Point(311, 200);
             this.NudTotalQuestions.Margin = new System.Windows.Forms.Padding(0);
             this.NudTotalQuestions.Maximum = new decimal(new int[] {
             10,
@@ -199,11 +194,10 @@
             // 
             // LbQuestionsNumber
             // 
-            this.LbQuestionsNumber.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.LbQuestionsNumber.AutoSize = true;
             this.LbQuestionsNumber.Font = new System.Drawing.Font("Comic Sans MS", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.LbQuestionsNumber.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
-            this.LbQuestionsNumber.Location = new System.Drawing.Point(17, 202);
+            this.LbQuestionsNumber.Location = new System.Drawing.Point(23, 202);
             this.LbQuestionsNumber.Margin = new System.Windows.Forms.Padding(0);
             this.LbQuestionsNumber.Name = "LbQuestionsNumber";
             this.LbQuestionsNumber.Size = new System.Drawing.Size(282, 38);
@@ -212,7 +206,6 @@
             // 
             // BtnStart
             // 
-            this.BtnStart.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.BtnStart.BackColor = System.Drawing.Color.White;
             this.BtnStart.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
             this.BtnStart.FlatAppearance.BorderSize = 3;
@@ -220,7 +213,7 @@
             this.BtnStart.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
             this.BtnStart.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.BtnStart.Font = new System.Drawing.Font("Comic Sans MS", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.BtnStart.Location = new System.Drawing.Point(214, 477);
+            this.BtnStart.Location = new System.Drawing.Point(220, 477);
             this.BtnStart.Margin = new System.Windows.Forms.Padding(0);
             this.BtnStart.Name = "BtnStart";
             this.BtnStart.Size = new System.Drawing.Size(168, 43);
@@ -231,7 +224,6 @@
             // 
             // BtnExit
             // 
-            this.BtnExit.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.BtnExit.BackColor = System.Drawing.Color.White;
             this.BtnExit.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
             this.BtnExit.FlatAppearance.BorderSize = 3;
@@ -239,7 +231,7 @@
             this.BtnExit.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.BtnExit.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.BtnExit.Font = new System.Drawing.Font("Comic Sans MS", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.BtnExit.Location = new System.Drawing.Point(20, 477);
+            this.BtnExit.Location = new System.Drawing.Point(26, 477);
             this.BtnExit.Margin = new System.Windows.Forms.Padding(0);
             this.BtnExit.Name = "BtnExit";
             this.BtnExit.Size = new System.Drawing.Size(168, 43);
@@ -252,7 +244,7 @@
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(402, 527);
+            this.ClientSize = new System.Drawing.Size(411, 525);
             this.ControlBox = false;
             this.Controls.Add(this.BtnExit);
             this.Controls.Add(this.BtnStart);

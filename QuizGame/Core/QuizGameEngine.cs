@@ -1,9 +1,4 @@
-﻿using QuizGame;
-using System;
-using static QuizGame.QuizGameEngine;
-
-
-namespace QuizGame
+﻿namespace QuizGame
 {
     public class QuizGameEngine
     {

@@ -1,5 +1,5 @@
-﻿using QuestionsGame;
-using SimpleCalculatorApp;
+﻿using QuizGame;
+using QuizGame;
 using System;
 using System.Collections.Generic;
 using System.Linq;
