@@ -96,6 +96,7 @@
             this.LbPlayerName.Name = "LbPlayerName";
             this.LbPlayerName.Size = new System.Drawing.Size(186, 38);
             this.LbPlayerName.TabIndex = 9;
+            this.LbPlayerName.Text = "N/A";
             this.LbPlayerName.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // LbQuestionNumber
@@ -160,6 +161,7 @@
             this.TxtQuestionString.Size = new System.Drawing.Size(529, 110);
             this.TxtQuestionString.TabIndex = 5;
             this.TxtQuestionString.TabStop = false;
+            this.TxtQuestionString.Text = "N/A";
             this.TxtQuestionString.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // RbAnswer1
@@ -178,7 +180,7 @@
             this.RbAnswer1.Name = "RbAnswer1";
             this.RbAnswer1.Size = new System.Drawing.Size(250, 36);
             this.RbAnswer1.TabIndex = 0;
-            this.RbAnswer1.Text = "Answer 1";
+            this.RbAnswer1.Text = "N/A";
             this.RbAnswer1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.RbAnswer1.UseVisualStyleBackColor = false;
             this.RbAnswer1.CheckedChanged += new System.EventHandler(this.ChoiceSelected);
@@ -199,7 +201,7 @@
             this.RbAnswer4.Name = "RbAnswer4";
             this.RbAnswer4.Size = new System.Drawing.Size(250, 36);
             this.RbAnswer4.TabIndex = 3;
-            this.RbAnswer4.Text = "Answer 4";
+            this.RbAnswer4.Text = "N/A";
             this.RbAnswer4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.RbAnswer4.UseVisualStyleBackColor = false;
             this.RbAnswer4.CheckedChanged += new System.EventHandler(this.ChoiceSelected);
@@ -220,7 +222,7 @@
             this.RbAnswer2.Name = "RbAnswer2";
             this.RbAnswer2.Size = new System.Drawing.Size(250, 36);
             this.RbAnswer2.TabIndex = 1;
-            this.RbAnswer2.Text = "Answer 2";
+            this.RbAnswer2.Text = "N/A";
             this.RbAnswer2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.RbAnswer2.UseVisualStyleBackColor = false;
             this.RbAnswer2.CheckedChanged += new System.EventHandler(this.ChoiceSelected);
@@ -241,7 +243,7 @@
             this.RbAnswer3.Name = "RbAnswer3";
             this.RbAnswer3.Size = new System.Drawing.Size(250, 36);
             this.RbAnswer3.TabIndex = 2;
-            this.RbAnswer3.Text = "Answer 3";
+            this.RbAnswer3.Text = "N/A";
             this.RbAnswer3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.RbAnswer3.UseVisualStyleBackColor = false;
             this.RbAnswer3.CheckedChanged += new System.EventHandler(this.ChoiceSelected);

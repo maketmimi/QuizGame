@@ -50,7 +50,7 @@
             this.LbPlayerName.AutoSize = true;
             this.LbPlayerName.Font = new System.Drawing.Font("Comic Sans MS", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.LbPlayerName.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
-            this.LbPlayerName.Location = new System.Drawing.Point(12, 113);
+            this.LbPlayerName.Location = new System.Drawing.Point(37, 113);
             this.LbPlayerName.Name = "LbPlayerName";
             this.LbPlayerName.Size = new System.Drawing.Size(114, 38);
             this.LbPlayerName.TabIndex = 6;
@@ -62,7 +62,7 @@
             this.TxtPlayerName.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.TxtPlayerName.Font = new System.Drawing.Font("Comic Sans MS", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TxtPlayerName.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(62)))));
-            this.TxtPlayerName.Location = new System.Drawing.Point(132, 115);
+            this.TxtPlayerName.Location = new System.Drawing.Point(157, 115);
             this.TxtPlayerName.Name = "TxtPlayerName";
             this.TxtPlayerName.ReadOnly = true;
             this.TxtPlayerName.Size = new System.Drawing.Size(254, 34);
@@ -85,7 +85,7 @@
             this.LbTotalQuestions.AutoSize = true;
             this.LbTotalQuestions.Font = new System.Drawing.Font("Comic Sans MS", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.LbTotalQuestions.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
-            this.LbTotalQuestions.Location = new System.Drawing.Point(12, 179);
+            this.LbTotalQuestions.Location = new System.Drawing.Point(37, 179);
             this.LbTotalQuestions.Name = "LbTotalQuestions";
             this.LbTotalQuestions.Size = new System.Drawing.Size(225, 38);
             this.LbTotalQuestions.TabIndex = 9;
@@ -97,7 +97,7 @@
             this.TxtTotalQuestions.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.TxtTotalQuestions.Font = new System.Drawing.Font("Comic Sans MS", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TxtTotalQuestions.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(62)))));
-            this.TxtTotalQuestions.Location = new System.Drawing.Point(272, 181);
+            this.TxtTotalQuestions.Location = new System.Drawing.Point(297, 181);
             this.TxtTotalQuestions.Name = "TxtTotalQuestions";
             this.TxtTotalQuestions.ReadOnly = true;
             this.TxtTotalQuestions.Size = new System.Drawing.Size(114, 34);
@@ -109,7 +109,7 @@
             this.LbCorrect.AutoSize = true;
             this.LbCorrect.Font = new System.Drawing.Font("Comic Sans MS", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.LbCorrect.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
-            this.LbCorrect.Location = new System.Drawing.Point(12, 226);
+            this.LbCorrect.Location = new System.Drawing.Point(37, 226);
             this.LbCorrect.Name = "LbCorrect";
             this.LbCorrect.Size = new System.Drawing.Size(234, 38);
             this.LbCorrect.TabIndex = 11;
@@ -121,7 +121,7 @@
             this.TxtCorrectAnswers.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.TxtCorrectAnswers.Font = new System.Drawing.Font("Comic Sans MS", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TxtCorrectAnswers.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(62)))));
-            this.TxtCorrectAnswers.Location = new System.Drawing.Point(272, 228);
+            this.TxtCorrectAnswers.Location = new System.Drawing.Point(297, 228);
             this.TxtCorrectAnswers.Name = "TxtCorrectAnswers";
             this.TxtCorrectAnswers.ReadOnly = true;
             this.TxtCorrectAnswers.Size = new System.Drawing.Size(114, 34);
@@ -133,7 +133,7 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Comic Sans MS", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
-            this.label2.Location = new System.Drawing.Point(237, 226);
+            this.label2.Location = new System.Drawing.Point(262, 226);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(29, 38);
             this.label2.TabIndex = 12;
@@ -144,7 +144,7 @@
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Comic Sans MS", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
-            this.label3.Location = new System.Drawing.Point(237, 179);
+            this.label3.Location = new System.Drawing.Point(262, 179);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(29, 38);
             this.label3.TabIndex = 13;
@@ -155,7 +155,7 @@
             this.LbWrong.AutoSize = true;
             this.LbWrong.Font = new System.Drawing.Font("Comic Sans MS", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.LbWrong.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
-            this.LbWrong.Location = new System.Drawing.Point(12, 273);
+            this.LbWrong.Location = new System.Drawing.Point(37, 273);
             this.LbWrong.Name = "LbWrong";
             this.LbWrong.Size = new System.Drawing.Size(218, 38);
             this.LbWrong.TabIndex = 15;
@@ -166,7 +166,7 @@
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Comic Sans MS", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
-            this.label5.Location = new System.Drawing.Point(236, 273);
+            this.label5.Location = new System.Drawing.Point(261, 273);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(29, 38);
             this.label5.TabIndex = 16;
@@ -178,7 +178,7 @@
             this.TxtWrongAnswers.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.TxtWrongAnswers.Font = new System.Drawing.Font("Comic Sans MS", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TxtWrongAnswers.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(62)))));
-            this.TxtWrongAnswers.Location = new System.Drawing.Point(272, 275);
+            this.TxtWrongAnswers.Location = new System.Drawing.Point(297, 275);
             this.TxtWrongAnswers.Name = "TxtWrongAnswers";
             this.TxtWrongAnswers.ReadOnly = true;
             this.TxtWrongAnswers.Size = new System.Drawing.Size(114, 34);

@@ -44,11 +44,11 @@
             this.LbTitle.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.LbTitle.Font = new System.Drawing.Font("Comic Sans MS", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.LbTitle.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
-            this.LbTitle.Location = new System.Drawing.Point(164, 46);
+            this.LbTitle.Location = new System.Drawing.Point(224, 46);
             this.LbTitle.Name = "LbTitle";
-            this.LbTitle.Size = new System.Drawing.Size(400, 67);
+            this.LbTitle.Size = new System.Drawing.Size(280, 67);
             this.LbTitle.TabIndex = 0;
-            this.LbTitle.Text = "Questions Game";
+            this.LbTitle.Text = "Quiz Game";
             // 
             // BtnPlay
             // 
